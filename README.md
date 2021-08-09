@@ -1,24 +1,6 @@
 # README
+A simple text based simulation of a coach.
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Try asking him a question, telling him "I'm going to work now", or anything that's on your mind.
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+This app was created with Rails 6 and can be run on your machine by typing "localhost:3000" into your browser after starting the rails server in the directory.
